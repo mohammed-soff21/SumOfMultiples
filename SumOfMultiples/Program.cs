@@ -7,7 +7,7 @@
 
             // Declaring variables
             char cUserChoice = ' ';
-            int nUserInput = 0, nSum = 0;
+            int nUserInput = 0;
             while (true)
             {
                 // Welcome message
